@@ -1,0 +1,13 @@
+     .one {
+      color: pink;
+      background-color: navy;
+      padding: 22px;
+      font-family: georgia, georgia, serif;
+      font-size: 20px;
+     }
+     .two {
+      color: navy;
+      background-color: pink;
+      padding: 20px;
+      font-family: monaco, monaco, monospace; 
+     }
